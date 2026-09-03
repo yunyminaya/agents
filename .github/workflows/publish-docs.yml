@@ -1,4 +1,6 @@
 name: Publish docs
+permissions:
+  contents: read
 
 on:
   workflow_dispatch:
