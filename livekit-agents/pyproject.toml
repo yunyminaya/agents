@@ -63,7 +63,7 @@ dependencies = [
 [project.optional-dependencies]
 mcp = ["mcp>=1.24.0, <2"]
 codecs = ["numpy>=1.26.0"]
-images = ["pillow>=10.3.0"]
+images = ["pillow>=13.0.0"]
 anam = ["livekit-plugins-anam>=1.7.1"]
 anthropic = ["livekit-plugins-anthropic>=1.7.1"]
 assemblyai = ["livekit-plugins-assemblyai>=1.7.1"]
